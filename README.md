@@ -4,7 +4,7 @@ This Python script automates the process of downloading archived episodes of the
 
 ## Problem
 
-Manually downloading each podcast episode individually was time-consuming and inefficient—especially when listening to multiple episodes per day.
+Manually downloading each archive podcast episode individually was time-consuming and inefficient—especially when listening to multiple episodes per day.
 
 ## Solution
 
